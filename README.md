@@ -1,8 +1,6 @@
 # Bitcoin and Cryptocurrency Tech
 
-This is the Coursera Princeton Bitcoin and Cryptcurrency course (https://www.coursera.org/learn/cryptocurrency)
-
-These are the solutions I developed that may be useful to other students.
+Here are a set of solutions I developed to the the Coursera Princeton Bitcoin and Cryptcurrency course (https://www.coursera.org/learn/cryptocurrency)
 
 I've included surrounding starter code that was provided and included unit tests that helped debug the code in the repository.
 
