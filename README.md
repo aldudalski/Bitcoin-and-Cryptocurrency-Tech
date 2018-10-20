@@ -2,7 +2,7 @@
 
 This is the Coursera Princeton Bitcoin and Cryptcurrency course (https://www.coursera.org/learn/cryptocurrency)
 
-These are the solutions I developed, may be useful to other students.
+These are the solutions I developed that may be useful to other students.
 
 I've included surrounding starter code that was provided and included unit tests that helped debug the code in the repository.
 
