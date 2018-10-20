@@ -18,3 +18,5 @@ The actual assignment deliverables were as follows:
 ## Assignment 3 deliverables
 
 * BlockChain.java
+
+refer to the blogpost here as well: (https://alekzdz.blogspot.com/2018/10/bitcoin-and-cryptocurrency-tech.html)
